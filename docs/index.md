@@ -23,8 +23,8 @@
     
     <br>![image](./img/jupyter_server2022.png)</br>
 
-* * * 
-* * * 
+
+<hr style="border:3px solid blue">
 
 ??? keybase "4. Reset HPC Password"
 
