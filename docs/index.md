@@ -1,5 +1,5 @@
 <center>
-# <b>NeSI HPC Auth.Factor Setup & Jupyter Login</b>
+# <b>NeSI HPC Auth.Factors Setup & Jupyter Login</b>
 </center>
 
 ??? key "1. Set HPC Password"
