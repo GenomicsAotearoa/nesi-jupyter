@@ -1,7 +1,23 @@
-# Content
+# **NeSI HPC Auth.Factor Setup & Jupyter Login**
 
-1. [Jupyter Login Instructions](1_jupyterlogin.md)
-2. [Set NeSI HPC Password](2_setnesi_hpc_password.md)
-3. [Set NeSI HPC Second Factor token](4_setsecodfactor.md)
-4. [Reset password](3_resetnesi_hpc_password.md)
-5. [Reset Second Factor](5_resetsecondfactor.md)
+??? key "1. Set HPC Password"
+
+     **Done via** [https://my.nesi.org.nz/login](https://my.nesi.org.nz/login)
+     
+     ![image](./img/SetPassword.png){width="1200"}
+
+??? keycdn "2. Reset HPC Password"
+
+    **Done via** [https://my.nesi.org.nz/login](https://my.nesi.org.nz/login)
+    
+    ![image](./img/newResetPassword.png){width="1000"}
+
+??? jupyter "3. Jupyter Login Details"
+
+    1. Follow [https://jupyter.nesi.org.nz/hub/login](https://jupyter.nesi.org.nz/hub/login)
+    2. <p>Enter NeSI username, HPC password and 6 digit second factor token<br>![image](./img/jupyter_login_labels_updated.png)</p>
+    3. <p>Choose server options as below
+    <br>>>make sure to choose the correct project code `nesi02659`, number of CPUs `CPUs=4`, memory `8 GB` prior to pressing ![image](./img/start_button.png){width="100"}button.
+    
+    <br>![image](./img/jupyter_server2022.png)</br>
+
