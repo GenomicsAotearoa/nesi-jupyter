@@ -6,11 +6,7 @@
      
      ![image](./img/SetPassword.png){width="1200"}
 
-??? keycdn "2. Reset HPC Password"
 
-    **Done via** [https://my.nesi.org.nz/login](https://my.nesi.org.nz/login)
-    
-    ![image](./img/newResetPassword.png){width="1000"}
 
 ??? jupyter "3. Jupyter Login Details"
 
@@ -21,3 +17,9 @@
     
     <br>![image](./img/jupyter_server2022.png)</br>
 
+
+??? keycdn "4. Reset HPC Password"
+
+    **Done via** [https://my.nesi.org.nz/login](https://my.nesi.org.nz/login)
+    
+    ![image](./img/newResetPassword.png){width="1000"}
