@@ -5,29 +5,4 @@
          <lastmod>2023-05-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
-    <url>
-         <loc>https://genomicsaotearoa.github.io/Introduction-to-R/1_jupyterlogin/</loc>
-         <lastmod>2023-05-23</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://genomicsaotearoa.github.io/Introduction-to-R/2_setnesi_hpc_password/</loc>
-         <lastmod>2023-05-23</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://genomicsaotearoa.github.io/Introduction-to-R/3_resetnesi_hpc_password/</loc>
-         <lastmod>2023-05-23</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://genomicsaotearoa.github.io/Introduction-to-R/4_setsecodfactor/</loc>
-         <lastmod>2023-05-23</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://genomicsaotearoa.github.io/Introduction-to-R/5_resetsecondfactor/</loc>
-         <lastmod>2023-05-23</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
 </urlset>
