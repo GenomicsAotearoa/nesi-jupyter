@@ -21,7 +21,7 @@
     3. <p>Choose server options as below
     <br>>>make sure to choose the correct project code `nesi02659`, number of CPUs `CPUs=4`, memory `8 GB` prior to pressing ![image](./img/start_button.png){width="100"}button.
     
-    <br>![image](./img/jupyter_server2022.png)</br>
+    <br>![image](./img/server-options-4c-8g.png)</br>
 
 
 <hr style="border:3px solid blue">
